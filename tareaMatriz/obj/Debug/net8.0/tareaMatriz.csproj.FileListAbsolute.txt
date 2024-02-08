@@ -1,0 +1,14 @@
+C:\Users\frany\Desktop\ESTRUCTURA\tareaMatriz\tareaMatriz\tareaMatriz\bin\Debug\net8.0\tareaMatriz.exe
+C:\Users\frany\Desktop\ESTRUCTURA\tareaMatriz\tareaMatriz\tareaMatriz\bin\Debug\net8.0\tareaMatriz.deps.json
+C:\Users\frany\Desktop\ESTRUCTURA\tareaMatriz\tareaMatriz\tareaMatriz\bin\Debug\net8.0\tareaMatriz.runtimeconfig.json
+C:\Users\frany\Desktop\ESTRUCTURA\tareaMatriz\tareaMatriz\tareaMatriz\bin\Debug\net8.0\tareaMatriz.dll
+C:\Users\frany\Desktop\ESTRUCTURA\tareaMatriz\tareaMatriz\tareaMatriz\bin\Debug\net8.0\tareaMatriz.pdb
+C:\Users\frany\Desktop\ESTRUCTURA\tareaMatriz\tareaMatriz\tareaMatriz\obj\Debug\net8.0\tareaMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frany\Desktop\ESTRUCTURA\tareaMatriz\tareaMatriz\tareaMatriz\obj\Debug\net8.0\tareaMatriz.AssemblyInfoInputs.cache
+C:\Users\frany\Desktop\ESTRUCTURA\tareaMatriz\tareaMatriz\tareaMatriz\obj\Debug\net8.0\tareaMatriz.AssemblyInfo.cs
+C:\Users\frany\Desktop\ESTRUCTURA\tareaMatriz\tareaMatriz\tareaMatriz\obj\Debug\net8.0\tareaMatriz.csproj.CoreCompileInputs.cache
+C:\Users\frany\Desktop\ESTRUCTURA\tareaMatriz\tareaMatriz\tareaMatriz\obj\Debug\net8.0\tareaMatriz.dll
+C:\Users\frany\Desktop\ESTRUCTURA\tareaMatriz\tareaMatriz\tareaMatriz\obj\Debug\net8.0\refint\tareaMatriz.dll
+C:\Users\frany\Desktop\ESTRUCTURA\tareaMatriz\tareaMatriz\tareaMatriz\obj\Debug\net8.0\tareaMatriz.pdb
+C:\Users\frany\Desktop\ESTRUCTURA\tareaMatriz\tareaMatriz\tareaMatriz\obj\Debug\net8.0\tareaMatriz.genruntimeconfig.cache
+C:\Users\frany\Desktop\ESTRUCTURA\tareaMatriz\tareaMatriz\tareaMatriz\obj\Debug\net8.0\ref\tareaMatriz.dll
